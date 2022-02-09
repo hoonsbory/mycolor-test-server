@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="720" height="400" viewBox="0 0 720 400">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_845" data-name="사각형 845" width="720" height="400" transform="translate(1023 -1580)" fill="#f5bca3"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5bca3"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="mo-spring-bg" transform="translate(-1023 1580)" clip-path="url(#clip-path)">
+    <ellipse id="타원_104" data-name="타원 104" cx="477.006" cy="1268.845" rx="477.006" ry="1268.845" transform="translate(905.994 -2989.063)" fill="url(#radial-gradient)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>

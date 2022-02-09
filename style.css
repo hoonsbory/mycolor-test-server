@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'HSThin';
+  font-style: normal;
+  font-weight: 100;
+  src: local('HSThin'),
+  url(https://cdn.jsdelivr.net/gh/hoonsbory/mycolor-deploy/font/HSThin.woff2) format('woff2'),
+  url(https://cdn.jsdelivr.net/gh/hoonsbory/mycolor-deploy/font/HSThin.woff) format('woff'),
+  url(https://cdn.jsdelivr.net/gh/hoonsbory/mycolor-deploy/font/HSThin.ttf) format('truetype'),
+  url(https://cdn.jsdelivr.net/gh/hoonsbory/mycolor-deploy/font/HSThin.otf) format('opentype')
+  /* 파이썬의 pyftsubset을 통해 경량화함 */
+}
+
+@font-face { 
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Noto Sans'),
+  url("https://jaehoon-bucket.s3.ap-northeast-2.amazonaws.com/NotoSansCJKkr-DemiLight.woff") format('woff')
+}
